@@ -1,7 +1,70 @@
 body{
     background-image: url(imagenes/fondo.png);
 }
-
+.t{
+    background-color: #ffd6babe;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    width: total;
+    height: 35px;
+    padding: 0px;
+    margin-left: 0px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    font-size: 1.5rem;
+}
+#fymantes{
+    width: 375px;
+    display:flex;
+    margin-left: 100px;
+}
+#flecha{
+    width: 125px;
+    display: flex;
+    margin-top: -150px;
+    margin-left: 550px;
+}
+#fymdps{
+    display:flex;
+    margin-left: 750px;
+    margin-top: -200px;
+}
 .cafe{
-    
+    width: 300px;
+    height: 450px;
+    display: flex;
+    margin-left: 500px;
+}
+#post{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 15px;
+}
+#copy{
+    background-color: #FFD6BA;
+    padding-right: 700px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-bottom: 50px;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin-top: -335px;
+    margin-left: 535px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1;
+    font-weight: 150;
+    text-align: justify;
+}
+#copytitulo{
+    font-family: 'PlayFair Display', serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: center;
 }
